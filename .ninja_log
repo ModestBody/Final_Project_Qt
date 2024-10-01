@@ -1,0 +1,16 @@
+# ninja log v5
+11	629	7493413310146451	build.ninja	7a4631ff56e3cb2a
+53	779	7494230645193234	Final_project_autogen/timestamp	98825c8649e30fe7
+53	779	7494230645193234	C:/Users/bmaka/source/repos/Final_project/Final_project_autogen/timestamp	98825c8649e30fe7
+53	779	7494230645193234	Final_project_autogen/mocs_compilation.cpp	98825c8649e30fe7
+796	5096	7494230689160996	CMakeFiles/Final_project.dir/mainwindow.cpp.obj	63c77db2897c602
+53	779	7494230645193234	C:/Users/bmaka/source/repos/Final_project/Final_project_autogen/mocs_compilation.cpp	98825c8649e30fe7
+780	4799	7494230686138086	CMakeFiles/Final_project.dir/Final_project_autogen/mocs_compilation.cpp.obj	bf14234ea51330d0
+788	4752	7494230685736560	CMakeFiles/Final_project.dir/main.cpp.obj	84952a45b21ecc3b
+5096	5412	7494230691708324	Final_project.exe	cc292b49954c8c91
+52	335	7494239449091262	Final_project_autogen/timestamp	98825c8649e30fe7
+52	335	7494239449091262	Final_project_autogen/mocs_compilation.cpp	98825c8649e30fe7
+52	335	7494239449091262	C:/Users/bmaka/source/repos/Final_project/Final_project_autogen/timestamp	98825c8649e30fe7
+52	335	7494239449091262	C:/Users/bmaka/source/repos/Final_project/Final_project_autogen/mocs_compilation.cpp	98825c8649e30fe7
+347	4262	7494239493156019	CMakeFiles/Final_project.dir/mainwindow.cpp.obj	63c77db2897c602
+4263	4675	7494239496793772	Final_project.exe	cc292b49954c8c91
